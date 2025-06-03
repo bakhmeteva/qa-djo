@@ -1,0 +1,16 @@
+{
+  "name": "qa-dojo",
+  "version": "1.0.1",
+  "description": "A simple package to check if a number is even",
+  "main": "index.js",
+  "keywords": [
+    "even",
+    "number",
+    "utility"
+  ],
+  "author": "Yulya Bakhmeteva",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

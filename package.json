@@ -1,0 +1,17 @@
+{
+  "name": "qa-djo",
+  "version": "10.41",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Yulya Bakhmeteva",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.15"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0"
+  }
+}
